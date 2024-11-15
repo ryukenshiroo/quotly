@@ -1,6 +1,6 @@
 ## Quote Generator
 
-> Fork from [@neoxr/quote-api](https://github.com/neoxr/quote-generator)
+> Fork from [@neoxr/quote-api](https://www.npmjs.com/package/@neoxr/quote-api)
 
 ### Example
 
